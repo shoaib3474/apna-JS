@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Word Guessing Game</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #121212;
+      color: #f0f0f0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      overflow: hidden;
+      margin: 0;
+    }
+
+    h1 {
+      color: #00ffe0;
+      margin-bottom: 20px;
+      letter-spacing: 2px;
+    }
+
+    #scrambled-word {
+      font-size: 2.5rem;
+      font-weight: bold;
+      margin-bottom: 20px;
+      color: #ff9800;
+      animation: glow 2s infinite alternate;
+    }
+
+    input {
+      padding: 12px;
+      font-size: 1.2rem;
+      border-radius: 10px;
+      border: none;
+      margin-bottom: 10px;
+      width: 250px;
+      text-align: center;
+    }
+
+    button {
+      padding: 10px 20px;
+      font-size: 1rem;
+      background: linear-gradient(45deg, #00bcd4, #2196f3);
+      border: none;
+      border-radius: 20px;
+      color: white;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    button:hover {
+      transform: scale(1.1);
+    }
+
+    #result {
+      font-size: 1.5rem;
+      margin-top: 20px;
+      height: 30px;
+    }
+
+    /* Glow animation for the scrambled word */
+    @keyframes glow {
+      from {
+        text-shadow: 0 0 10px #ff9800, 0 0 20px #ff9800;
+      }
+      to {
+        text-shadow: 0 0 20px #ff5722, 0 0 30px #ff5722;
+      }
+    }
+
+    /* Blast particles */
+    .particle {
+      position: absolute;
+      width: 10px;
+      height: 10px;
+      background: #00ffe0;
+      border-radius: 50%;
+      opacity: 0.8;
+      animation: blast 0.7s forwards;
+    }
+
+    @keyframes blast {
+      to {
+        transform: translate(var(--x), var(--y)) scale(0);
+        opacity: 0;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Word Spell Blast! 🚀</h1>
+
+  <p id="scrambled-word">Loading...</p>
+
+  <input type="text" id="user-input" placeholder="Enter correct spelling...">
+  <br>
+  <button onclick="checkAnswer()">Submit</button>
+
+  <p id="result"></p>
+
+  <script>
+    const words = ["pakistan", "javascript", "flutter", "developer", "computer"];
+    const correctWord = words[Math.floor(Math.random() * words.length)];
+
+    function shuffle(word) {
+      return word.split('').sort(() => Math.random() - 0.5).join('');
+    }
+
+    document.getElementById('scrambled-word').innerText = shuffle(correctWord);
+
+    function checkAnswer() {
+      const userInput = document.getElementById('user-input').value.toLowerCase();
+      const result = document.getElementById('result');
+      
+      if (userInput === correctWord) {
+        result.innerText = "🎉 Correct!";
+        result.style.color = "#00ff00";
+        triggerBlast();
+        setTimeout(() => {
+          location.reload(); // reload to get a new word
+        }, 1500);
+      } else {
+        result.innerText = "❌ Wrong! Try Again.";
+        result.style.color = "#ff0000";
+      }
+    }
+
+    function triggerBlast() {
+      for (let i = 0; i < 30; i++) {
+        const particle = document.createElement('div');
+        particle.classList.add('particle');
+        particle.style.left = (window.innerWidth/2) + 'px';
+        particle.style.top = (window.innerHeight/2) + 'px';
+        particle.style.setProperty('--x', (Math.random() * 400 - 200) + 'px');
+        particle.style.setProperty('--y', (Math.random() * 400 - 200) + 'px');
+        document.body.appendChild(particle);
+        
+        setTimeout(() => {
+          particle.remove();
+        }, 700);
+      }
+    }
+  </script>
+
+</body>
+</html>
