@@ -21,60 +21,27 @@ If you're learning JavaScript or want to revise it from scratch — this is for 
 ---
 ## 🧠 Topics Covered
 
-> A complete roadmap from **JavaScript basics to advanced concepts**, every step mastered.  
+> A structured roadmap to mastering JavaScript — from fundamentals to advanced!
 
-<table>
-  <tr>
-    <td>🔤 <b>Variables & Data Types</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>➕ <b>Operators & Conditionals</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>🔁 <b>Loops & Iterations</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>🔧 <b>Functions & Scope</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>🧮 <b>Arrays & Objects</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>🖼️ <b>DOM Manipulation</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>🚀 <b>ES6+ Features</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>⏳ <b>Callbacks & Promises</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>🔄 <b>Async / Await</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>🏗️ <b>OOP in JavaScript</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>📝 <b>Events & Forms</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>🚫 <b>Error Handling</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-  <tr>
-    <td>📡 <b>JSON & Fetch API</b></td>
-    <td>✔️ Completed</td>
-  </tr>
-</table>
+---
 
+| 🔢 Topic                      | 💼 Description                           | ✅ Status    |
+|------------------------------|-------------------------------------------|--------------|
+| **Variables & Data Types**   | Basics of declaring and using data       | ✔️ Completed |
+| **Operators & Conditionals** | Logic building with if/else, operators   | ✔️ Completed |
+| **Loops & Iterations**       | Repeating logic using for/while loops    | ✔️ Completed |
+| **Functions & Scope**        | Reusable blocks and lexical scope        | ✔️ Completed |
+| **Arrays & Objects**         | Core data structures and manipulation    | ✔️ Completed |
+| **DOM Manipulation**         | Working with HTML elements dynamically   | ✔️ Completed |
+| **ES6+ Features**            | Modern syntax: let/const, arrow funcs    | ✔️ Completed |
+| **Callbacks & Promises**     | Handling asynchronous logic              | ✔️ Completed |
+| **Async/Await**              | Cleaner async operations with await      | ✔️ Completed |
+| **OOP in JavaScript**        | Classes, inheritance, prototypes         | ✔️ Completed |
+| **Events & Forms**           | Event listeners and form processing      | ✔️ Completed |
+| **Error Handling**           | try/catch, throwing custom errors        | ✔️ Completed |
+| **JSON & Fetch API**         | Working with APIs & JSON data            | ✔️ Completed |
+
+---
+
+🌟 **100% JavaScript Learning Path Completed!**  
+✅ Built with real examples, use-cases, and clean code.
