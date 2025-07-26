@@ -1,7 +1,4 @@
 <h1 align="center">🚀 apna-JS</h1>
-<p align="center">
-  <img src="[https://i.imgur.com/Iph4e9j.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgIJSpy9QiScV8r39Tre2S-iz5myIneJLR3w&s)" alt="apna-JS Banner" width="100%" />
-</p>
 
 <p align="center">
   💡 Complete JavaScript Roadmap — From Basics to Advanced
