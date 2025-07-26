@@ -22,23 +22,28 @@ If you're learning JavaScript or want to revise it from scratch — this is for 
 
 ## 🧠 Topics Covered
 
-| 📁 Category              | ✅ Status |
-|--------------------------|-----------|
-| Variables & Data Types   | ✔️ Done |
-| Operators & Conditionals | ✔️ Done |
-| Loops & Iterations       | ✔️ Done |
-| Functions & Scope        | ✔️ Done |
-| Arrays & Objects         | ✔️ Done |
-| DOM Manipulation         | ✔️ Done |
-| ES6+ Features            | ✔️ Done |
-| Callbacks & Promises     | ✔️ Done |
-| Async/Await              | ✔️ Done |
-| OOP in JavaScript        | ✔️ Done |
-| Events & Forms           | ✔️ Done |
-| Error Handling           | ✔️ Done |
-| JSON & Fetch API         | ✔️ Done |
+> Every major JavaScript concept is broken down into practical, easy-to-understand examples.
+
+| 🔢 Basics                          | 🧩 Intermediate                  | 🚀 Advanced                   |
+|----------------------------------|----------------------------------|-------------------------------|
+| ✔️ Variables & Data Types         | ✔️ Arrays & Objects              | ✔️ OOP in JavaScript          |
+| ✔️ Operators & Conditionals       | ✔️ Functions & Scope             | ✔️ Async/Await                |
+| ✔️ Loops & Iterations             | ✔️ DOM Manipulation              | ✔️ Callbacks & Promises       |
+| ✔️ Events & Forms                 | ✔️ ES6+ Features                 | ✔️ Error Handling             |
+|                                  |                                  | ✔️ JSON & Fetch API           |
 
 ---
 
 ## 🗂️ Project Structure
 
+> Organized folder-wise for clarity and progression 🚀
+
+```bash
+apna-JS/
+├── 01_Basics/                # Variables, operators, loops, etc.
+├── 02_Arrays_Objects/        # Arrays, objects, methods
+├── 03_DOM/                   # DOM selection, manipulation, events
+├── 04_Promises_Async/        # Callbacks, Promises, async/await
+├── 05_OOP/                   # Classes, constructors, prototypes
+├── 06_Projects/              # Mini-projects (optional)
+└── README.md                 # You're here!
