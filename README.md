@@ -19,17 +19,62 @@ This repository contains **every concept of JavaScript** that I learned, impleme
 If you're learning JavaScript or want to revise it from scratch — this is for you.
 
 ---
-
 ## 🧠 Topics Covered
 
-> Every major JavaScript concept is broken down into practical, easy-to-understand examples.
+> A complete roadmap from **JavaScript basics to advanced concepts**, every step mastered.  
 
-| 🔢 Basics                          | 🧩 Intermediate                  | 🚀 Advanced                   |
-|----------------------------------|----------------------------------|-------------------------------|
-| ✔️ Variables & Data Types         | ✔️ Arrays & Objects              | ✔️ OOP in JavaScript          |
-| ✔️ Operators & Conditionals       | ✔️ Functions & Scope             | ✔️ Async/Await                |
-| ✔️ Loops & Iterations             | ✔️ DOM Manipulation              | ✔️ Callbacks & Promises       |
-| ✔️ Events & Forms                 | ✔️ ES6+ Features                 | ✔️ Error Handling             |
-|                                  |                                  | ✔️ JSON & Fetch API           |
+<table>
+  <tr>
+    <td>🔤 <b>Variables & Data Types</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>➕ <b>Operators & Conditionals</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>🔁 <b>Loops & Iterations</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>🔧 <b>Functions & Scope</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>🧮 <b>Arrays & Objects</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>🖼️ <b>DOM Manipulation</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>🚀 <b>ES6+ Features</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>⏳ <b>Callbacks & Promises</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>🔄 <b>Async / Await</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>🏗️ <b>OOP in JavaScript</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>📝 <b>Events & Forms</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>🚫 <b>Error Handling</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+  <tr>
+    <td>📡 <b>JSON & Fetch API</b></td>
+    <td>✔️ Completed</td>
+  </tr>
+</table>
 
----
