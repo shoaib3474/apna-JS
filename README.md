@@ -18,30 +18,51 @@ This repository contains **every concept of JavaScript** that I learned, impleme
 
 If you're learning JavaScript or want to revise it from scratch — this is for you.
 
----
 ## 🧠 Topics Covered
 
-> A structured roadmap to mastering JavaScript — from fundamentals to advanced!
+> ✅ A full journey through JavaScript — from beginner to advanced concepts.
 
 ---
 
-| 🔢 Topic                      | 💼 Description                           | ✅ Status    |
-|------------------------------|-------------------------------------------|--------------|
-| **Variables & Data Types**   | Basics of declaring and using data       | ✔️ Completed |
-| **Operators & Conditionals** | Logic building with if/else, operators   | ✔️ Completed |
-| **Loops & Iterations**       | Repeating logic using for/while loops    | ✔️ Completed |
-| **Functions & Scope**        | Reusable blocks and lexical scope        | ✔️ Completed |
-| **Arrays & Objects**         | Core data structures and manipulation    | ✔️ Completed |
-| **DOM Manipulation**         | Working with HTML elements dynamically   | ✔️ Completed |
-| **ES6+ Features**            | Modern syntax: let/const, arrow funcs    | ✔️ Completed |
-| **Callbacks & Promises**     | Handling asynchronous logic              | ✔️ Completed |
-| **Async/Await**              | Cleaner async operations with await      | ✔️ Completed |
-| **OOP in JavaScript**        | Classes, inheritance, prototypes         | ✔️ Completed |
-| **Events & Forms**           | Event listeners and form processing      | ✔️ Completed |
-| **Error Handling**           | try/catch, throwing custom errors        | ✔️ Completed |
-| **JSON & Fetch API**         | Working with APIs & JSON data            | ✔️ Completed |
+- ✅ **Variables & Data Types**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Declaring variables, understanding data types
+
+- ✅ **Operators & Conditionals**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Arithmetic, logical, ternary, if/else structures
+
+- ✅ **Loops & Iterations**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 For, while, do-while, and loop control
+
+- ✅ **Functions & Scope**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Regular and arrow functions, scope rules
+
+- ✅ **Arrays & Objects**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 CRUD operations, methods like map/filter/reduce
+
+- ✅ **DOM Manipulation**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Selecting, editing, and responding to elements
+
+- ✅ **ES6+ Features**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Let/const, spread/rest, destructuring, modules
+
+- ✅ **Callbacks & Promises**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Asynchronous execution with cleaner chaining
+
+- ✅ **Async / Await**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Writing asynchronous code that reads like sync
+
+- ✅ **OOP in JavaScript**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Classes, inheritance, prototypes, constructors
+
+- ✅ **Events & Forms**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Event handling, form submission, validation
+
+- ✅ **Error Handling**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Try/catch, throwing custom errors
+
+- ✅ **JSON & Fetch API**  
+  &nbsp;&nbsp;&nbsp;&nbsp;🔹 Fetching and parsing external data with JSON
 
 ---
 
-🌟 **100% JavaScript Learning Path Completed!**  
-✅ Built with real examples, use-cases, and clean code.
+📘 _Each topic is implemented with practical `.js` files in this repository._
