@@ -1,23 +1,53 @@
-# JavaScript Mastery Project
+<h1 align="center">🚀 apna-JS</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shoaib3474/apna-JS/main/assets/banner.png" alt="apna JS Banner" width="100%" />
+</p>
 
-![Banner](https://via.placeholder.com/1200x300.png?text=JavaScript+Mastery)
+<p align="center">
+  💡 Mastered JavaScript from Zero to Hero  
+</p>
 
-## Overview
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Learning-JavaScript-yellow?style=for-the-badge&logo=javascript" /></a>
+  <a href="https://github.com/shoaib3474/apna-JS"><img src="https://img.shields.io/github/repo-size/shoaib3474/apna-JS?style=for-the-badge" /></a>
+  <a href="https://github.com/shoaib3474/apna-JS/commits/main"><img src="https://img.shields.io/github/last-commit/shoaib3474/apna-JS?style=for-the-badge" /></a>
+</p>
 
-A comprehensive JavaScript learning resource covering all major topics with examples, exercises, and demos.
+---
 
-## Features
+## 📚 About This Repository
 
-- Covers basics to advanced topics (Arrays, Promises, DOM, ES6+, etc.)
-- Organized code by topic
-- Practical examples and exercises
-- Live demos via GitHub Pages
+This repository is a complete journey through **JavaScript** — from the most basic syntax to advanced topics — explained with clean and practical code examples.
 
-![Code Example](https://via.placeholder.com/600x400.png?text=Sample+Code)
+Perfect for:
+- Beginners who want to learn JavaScript from scratch.
+- Developers brushing up on fundamentals.
+- Anyone preparing for interviews.
 
-## Installation
+---
 
-1. Clone repo:
-   ```bash
-   git clone https://github.com/your-username/javascript-mastery.git
-   
+## 🧠 Topics Covered
+
+| 📁 Category              | ✅ Status |
+|--------------------------|-----------|
+| Variables & Data Types   | ✔️ Completed |
+| Operators & Conditionals | ✔️ Completed |
+| Loops & Iterations       | ✔️ Completed |
+| Functions & Scope        | ✔️ Completed |
+| Arrays & Objects         | ✔️ Completed |
+| DOM Manipulation         | ✔️ Completed |
+| ES6+ Features            | ✔️ Completed |
+| Callbacks & Promises     | ✔️ Completed |
+| Async/Await              | ✔️ Completed |
+| OOP in JavaScript        | ✔️ Completed |
+| Events & Forms           | ✔️ Completed |
+| Error Handling           | ✔️ Completed |
+| JSON & Fetch API         | ✔️ Completed |
+
+---
+
+## 📸 Preview
+
+> _Sample Code Structure_
+
+
