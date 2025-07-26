@@ -1,10 +1,10 @@
 <h1 align="center">🚀 apna-JS</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shoaib3474/apna-JS/main/assets/banner.png" alt="apna JS Banner" width="100%" />
+  <img src="https://i.imgur.com/Iph4e9j.png" alt="apna-JS Banner" width="100%" />
 </p>
 
 <p align="center">
-  💡 Mastered JavaScript from Zero to Hero  
+  💡 Complete JavaScript Roadmap — From Basics to Advanced
 </p>
 
 <p align="center">
@@ -17,12 +17,9 @@
 
 ## 📚 About This Repository
 
-This repository is a complete journey through **JavaScript** — from the most basic syntax to advanced topics — explained with clean and practical code examples.
+This repository contains **every concept of JavaScript** that I learned, implemented, and practiced. It’s structured in a beginner-friendly way and gradually transitions to advanced concepts.
 
-Perfect for:
-- Beginners who want to learn JavaScript from scratch.
-- Developers brushing up on fundamentals.
-- Anyone preparing for interviews.
+If you're learning JavaScript or want to revise it from scratch — this is for you.
 
 ---
 
@@ -30,24 +27,21 @@ Perfect for:
 
 | 📁 Category              | ✅ Status |
 |--------------------------|-----------|
-| Variables & Data Types   | ✔️ Completed |
-| Operators & Conditionals | ✔️ Completed |
-| Loops & Iterations       | ✔️ Completed |
-| Functions & Scope        | ✔️ Completed |
-| Arrays & Objects         | ✔️ Completed |
-| DOM Manipulation         | ✔️ Completed |
-| ES6+ Features            | ✔️ Completed |
-| Callbacks & Promises     | ✔️ Completed |
-| Async/Await              | ✔️ Completed |
-| OOP in JavaScript        | ✔️ Completed |
-| Events & Forms           | ✔️ Completed |
-| Error Handling           | ✔️ Completed |
-| JSON & Fetch API         | ✔️ Completed |
+| Variables & Data Types   | ✔️ Done |
+| Operators & Conditionals | ✔️ Done |
+| Loops & Iterations       | ✔️ Done |
+| Functions & Scope        | ✔️ Done |
+| Arrays & Objects         | ✔️ Done |
+| DOM Manipulation         | ✔️ Done |
+| ES6+ Features            | ✔️ Done |
+| Callbacks & Promises     | ✔️ Done |
+| Async/Await              | ✔️ Done |
+| OOP in JavaScript        | ✔️ Done |
+| Events & Forms           | ✔️ Done |
+| Error Handling           | ✔️ Done |
+| JSON & Fetch API         | ✔️ Done |
 
 ---
 
-## 📸 Preview
-
-> _Sample Code Structure_
-
+## 🗂️ Project Structure
 
